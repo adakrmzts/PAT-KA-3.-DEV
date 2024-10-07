@@ -1,0 +1,10 @@
+/Users/adacinkilic/Desktop/PATİKA 3.ÖDEV/Patika 3. ödev/obj/Debug/net8.0/Patika 3. ödev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adacinkilic/Desktop/PATİKA 3.ÖDEV/Patika 3. ödev/obj/Debug/net8.0/Patika 3. ödev.AssemblyInfoInputs.cache
+/Users/adacinkilic/Desktop/PATİKA 3.ÖDEV/Patika 3. ödev/obj/Debug/net8.0/Patika 3. ödev.AssemblyInfo.cs
+/Users/adacinkilic/Desktop/PATİKA 3.ÖDEV/Patika 3. ödev/obj/Debug/net8.0/Patika 3. ödev.csproj.CoreCompileInputs.cache
+/Users/adacinkilic/Desktop/PATİKA 3.ÖDEV/Patika 3. ödev/bin/Debug/net8.0/Patika 3. ödev
+/Users/adacinkilic/Desktop/PATİKA 3.ÖDEV/Patika 3. ödev/bin/Debug/net8.0/Patika 3. ödev.dll
+/Users/adacinkilic/Desktop/PATİKA 3.ÖDEV/Patika 3. ödev/bin/Debug/net8.0/Patika 3. ödev.pdb
+/Users/adacinkilic/Desktop/PATİKA 3.ÖDEV/Patika 3. ödev/obj/Debug/net8.0/Patika 3. ödev.dll
+/Users/adacinkilic/Desktop/PATİKA 3.ÖDEV/Patika 3. ödev/obj/Debug/net8.0/refint/Patika 3. ödev.dll
+/Users/adacinkilic/Desktop/PATİKA 3.ÖDEV/Patika 3. ödev/obj/Debug/net8.0/Patika 3. ödev.pdb
